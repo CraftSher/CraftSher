@@ -41,6 +41,7 @@
     <li><a href="https://github.com/CraftSher/Gym_management">Gym_management</a> — система управления клиентами спортзала</li>
     <li><a href="https://github.com/CraftSher/Orders_management">Orders_management</a> — система управления заказами клиентов</li>
     <li><a href="https://github.com/CraftSher/Tech_shop_analysis">Tech_shop_analysis</a> — анализ заказов магазина техники</li>
+    <li><a href="https://github.com/CraftSher/UZHelperGBot">UZHelperGBot</a> — универсальный бот Telegram</li>
   </ul>
 
   <h2>📫 Контакты</h2>
