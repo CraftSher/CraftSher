@@ -1,14 +1,19 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRxaHprZHEydWV4ZTI1MjY0cmd1bG9tNnBuNzd2dHpkaWFqbXRxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JR7iS0j2YwfW9mopu3/giphy.gif" width="120" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="120"/>
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+  ![Telegram API](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat&logo=telegram&logoColor=white)
+  ![Статус](https://img.shields.io/badge/Доступен_для_проектов-00CC00?style=flat)
 </div>
 
 <h1 align="center">
-  Привет, я Sherzod (CraftSher)! 👋
+  Привет, я Sherzod (CraftSher) 👨‍💻
 </h1>
 
-<p align="center">
-  Python-разработчик и начинающий фрилансер, который любит автоматизировать задачи и создавать полезные проекты.
-</p>
+<h3 align="center">
+  Python-разработчик | Специалист по автоматизации | Создаю Telegram-ботов под ключ
+</h3>
 
 ---
 
@@ -45,18 +50,7 @@
   </ul>
 
   <h2>📫 Контакты</h2>
-  <p>
-    <a href="https://t.me/clever_blok" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
-    <a href="mailto:serzodtagirov87@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
-
-</div>
-
----
+<p align="center"> <a href="https://t.me/clever_blok"> <img src="https://img.shields.io/badge/Telegram-Написать_мне-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/> </a> <a href="mailto:serzodtagirov87@gmail.com"> <img src="https://img.shields.io/badge/Email-Отправить_запрос-D14836?style=for-the-badge&logo=gmail" alt="Email"/> </a> </p><div align="center"> <sub>✨ Готов к вашим интересным проектам!</sub> </div> ```
 
 
 
